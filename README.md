@@ -2,7 +2,7 @@
 
 ## 개발 경험들
 - fast campus 백엔드 프로젝트 리팩토링 및 활용 경험들
-- 학습 도우미 관련 개인 프로젝트 (진행 중)
+- 학습 도우미(The third tool) 관련 개인 프로젝트 (진행 중)-졸업 프로젝트 기획중
 <!--
 **js-kim-arc/js-kim-arc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
