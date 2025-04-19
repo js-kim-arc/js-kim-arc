@@ -1,9 +1,9 @@
-## Hi there 👋edit하는 개발자 김준성입니다!
+## Hi there 👋  -edit하는 개발자 김준성입니다!-
 <!--헤더코드 부문-->
 ![header](https://capsule-render.vercel.app/api?type=transparent)
 
  ## 👀 About Me
-  #### :raising_hand: I am a Backend Engineer from South Korea.<br/>
+  #### :raising_hand: I am a Backend Engineer.<br/>
   #### :fire: I aim to become a backend and DevOps Engineer.<br/>
   #### :mortar_board: Bachelor of Applied Artificial Intelligence, Hongik University(SKKU)
   <br/>
@@ -12,6 +12,7 @@
 
 ## 개발 경험들
 - fast campus 백엔드 프로젝트 리팩토링 및 활용 경험들-1차 보딩 프로젝트
+     - 길찾기 성능 추가 중(진행중)
 - 학습 도우미(The third tool) 관련 개인 프로젝트 (진행 중)-졸업 프로젝트 기획중
 - 
 
@@ -25,6 +26,7 @@
 
 
  ### Framework
+ 
 
 
    ### ETC
