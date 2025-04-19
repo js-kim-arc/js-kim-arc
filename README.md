@@ -20,13 +20,13 @@
 ## 🧱 Tech Stack
  ### Language
 <img src="https://img.shields.io/badge/spring-#6DB33F?style=flat-square&logo=Spring &logoColor=white"/>
-
+Java, Python
 
  ### Library
 
 
  ### Framework
- 
+ Spring Boot, Jpa(querydsl), Spring security
 
 
    ### ETC
