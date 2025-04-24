@@ -1,9 +1,7 @@
-## Hi there 👋  -edit하는 개발자 김준성입니다!-
+## 👋 안녕하십니까!! edit하는 개발자 김준성입니다!-
 <!--헤더코드 부문-->
 ![header](https://capsule-render.vercel.app/api?type=transparent)
 
-
-  <br/>
 
 
 
