@@ -2,11 +2,8 @@
 <!--헤더코드 부문-->
 ![header](https://capsule-render.vercel.app/api?type=transparent)
 
-
-
-
 ## 개발 경험들
-- fast campus 백엔드 프로젝트 리팩토링 및 활용 경험들-1차 보딩 프로젝트
+- 토이 프로젝트 - 백엔드 프로젝트 리팩토링 및 활용 경험들-1차 보딩 프로젝트
      - 길찾기 성능 추가 중(진행중)
 - 학습 도우미(The third tool) 관련 개인 프로젝트 (진행 중)-졸업 프로젝트 기획중
 
@@ -21,7 +18,6 @@
 <div align="center">
     <h2> 🏷️ How to reach me?</h2>
     <a href="https://bit.ly/onlyjoon"><img src="https://img.shields.io/badge/Portfolio-EE6123?style=flat-square&logo=Bitly&logoColor=white"></a>
-    <a href="mailto:"nhj7334@icloud.com"><img src="https://img.shields.io/badge/iCloud-3693F3?style=flat-square&logo=iCloud&logoColor=white"></a>
     <a href="https://velog.io/@js-kim-arc"><img src="http://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"></a>
 
 <!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=nhj9974)](https://velog.io/@nhj9974) -->
