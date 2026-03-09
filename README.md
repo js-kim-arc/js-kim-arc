@@ -2,8 +2,11 @@
 <!--헤더코드 부문-->
 ![header](https://capsule-render.vercel.app/api?type=transparent)
 
+## ㅇㅇㅇ
+
 ## 개발 project들
 - Third tool  관련 개인 프로젝트 (진행 중)- 홍익대학교 컴퓨터 공학과 졸업 프로젝트
+      - 장기기억을 위한 학습 프로젝트 
 - leafy 프로젝트 - 식물 키우기 토이 프로젝트
 - 홍시 memo 프로젝트 - 세컨드 브레인 기반 (메모 시스템 기획 중) 
 - [내일배움캠프] (~ing)
