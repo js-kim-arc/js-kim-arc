@@ -1,17 +1,36 @@
-## 👋 안녕하십니까!! edit하는 개발자 김준성입니다!-
-<!--헤더코드 부문-->
-![header](https://capsule-render.vercel.app/api?type=transparent)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=90)
 
-## ㅇㅇㅇ
+### Hi I'm Junseong Kim 👋
+majoring in **Computer Science, Hongik University**
 
-## 개발 project들
-- Third tool  관련 개인 프로젝트 (진행 중)- 홍익대학교 컴퓨터 공학과 졸업 프로젝트
-      - 장기기억을 위한 학습 프로젝트 
-- leafy 프로젝트 - 식물 키우기 토이 프로젝트
-- 홍시 memo 프로젝트 - 세컨드 브레인 기반 (메모 시스템 기획 중) 
-- [내일배움캠프] (~ing)
-- [내일배움캠프]- 토이 프로젝트 - 길담 
+#### 🏢 Experiences
+<ul>
+  <li>
+    GDSC Hongik University 멤버
+  </li>
+  <li>
+    홍익대학교 알고리즘 동아리 <a href="https://github.com/Hi-Arc">Hi-Arc</a> 멤버
+  </li>
+  <li>
+    내일배움캠프 Spring 백엔드 과정
+  </li>
+</ul>
 
+#### 🗂️ Projects
+<ul>
+  <li>
+    장기기억 학습법과 디지털 메모에 관한 소논문 — 홍익대학교
+  </li>
+  <li>
+    홍익대학교 졸업 프로젝트 — <a href="https://github.com/js-kim-arc/third-tool-fe-arg">ThirdTool</a> (장기기억 학습법 기반 복습 관리 시스템)
+  </li>
+  <li>
+    내일배움캠프 — <a href="https://github.com/js-kim-arc">BukitUp</a> (월간 규칙·불규칙 지출 관리 시스템) 개발 중
+  </li>
+</ul>
+
+#### 🔗 Links
+[![](https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@js-kim-arc/posts)
 
 
 <!-- 헤더 -->
