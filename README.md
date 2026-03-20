@@ -20,7 +20,8 @@ majoring in **Computer Science, Hongik University**
 <ul>
   <li>
     장기기억 학습법과 디지털 메모에 관한 소논문 — 홍익대학교
-    참고) [도메인 team third tool- 팀 문서](https://alive-balance-aba.notion.site/Team-Third-tool-327016c1c24180ca8436d929bc12ca15?source=copy_link)
+    참고) [도메인 team third tool- 팀 문서]
+    (https://alive-balance-aba.notion.site/Team-Third-tool-327016c1c24180ca8436d929bc12ca15?source=copy_link)
   </li>
   <li>
     홍익대학교 졸업 프로젝트 — <a href="https://github.com/js-kim-arc/third-tool-fe-arg">ThirdTool</a> (장기기억 학습법 기반 복습 관리 시스템)
