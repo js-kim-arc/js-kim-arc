@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=90)
 
 ### Hi I'm Junseong Kim 👋
-majoring in **Computer Science, Hongik University**
+majoring in **Computer Engineering, Hongik University**
 
 #### 🏢 Experiences
 <ul>
