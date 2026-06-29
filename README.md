@@ -26,7 +26,7 @@ majoring in **Computer Engineering, Hongik University**
     홍익대학교 졸업 프로젝트 — <a href="https://github.com/js-kim-arc/third-tool-fe-arg">ThirdTool</a> (장기기억 학습법 기반 복습 관리 시스템)
   </li>
   <li>
-    내일배움캠프 — <a href="https://github.com/js-kim-arc">BukitUp</a> (월간 규칙·불규칙 지출 관리 시스템) 개발 중
+    내일배움캠프 — <a href="https://github.com/js-kim-arc">C1oud-mall</a> (프로젝트 전시, 쇼핑몰) 개발 중
   </li>
 </ul>
 
